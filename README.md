@@ -2,7 +2,7 @@
 
 # Team member name
 Jajuan Hall
- 
+
 # Quick Start
 ```
 pip install -r requirements.txt
@@ -17,3 +17,4 @@ py main.py
 100%
 
 # Insert a confusion matrix for the best K
+![alt-text](https://github.com/IamJajuan/Homework-2/blob/main/Confusion%20Matrix.png)
